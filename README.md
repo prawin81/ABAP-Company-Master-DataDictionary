@@ -134,7 +134,7 @@ Below is how company master data looks in the transparent table:
 | 00003      | Gamma Industries    | Bangalore | Karnataka   | India   | Manufacturing   | 9823456789 | sales@gammaind.com     |
 
 📸 Example screenshot:  
-![Company Master Table](./assets/Company_Master_Table.png)  
+![Company Master Table](Company_Master_Table.png)  
 
 ---
 
