@@ -1,0 +1,8 @@
+ZCOM_ID_DOM     NUMC(5)     Company ID
+ZCOM_NAME_DOM   CHAR(40)    Company Name
+ZCITY_DOM       CHAR(20)    City
+ZSTATE_DOM      CHAR(20)    State
+ZCOUNTRY_DOM    CHAR(20)    Country
+ZINDUSTRY_DOM   CHAR(30)    Industry
+ZCONTACT_DOM    NUMC(10)    Contact Number
+ZEMAIL_DOM      CHAR(50)    Email Address
