@@ -1,0 +1,4 @@
+Lock Object: EZCOMPANY_LOCK
+- Primary Table: ZCOMPANY_MASTER
+- Lock Argument: COMPANY_ID
+- Purpose: Prevent simultaneous update on same record
