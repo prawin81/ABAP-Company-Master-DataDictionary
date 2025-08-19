@@ -160,5 +160,5 @@ When the user presses `F4`, a popup displays a list of companies for easy select
 ## 👨‍💻 Author  
 **Parveen Kumar**  
 SAP Certified Associate – Back-End Developer – ABAP Cloud  
-📧 parveen.email@example.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/parveen) | [GitHub](https://github.com/parveen)
+📧 prawinkumar564@gmail.com 
+🌐 [LinkedIn](https://www.linkedin.com/in/prawin89/) | [GitHub](https://github.com/prawin81)
