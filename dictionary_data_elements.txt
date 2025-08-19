@@ -1,0 +1,8 @@
+ZCOM_ID_DE      Domain: ZCOM_ID_DOM      Label: Company ID
+ZCOM_NAME_DE    Domain: ZCOM_NAME_DOM    Label: Company Name
+ZCITY_DE        Domain: ZCITY_DOM        Label: City
+ZSTATE_DE       Domain: ZSTATE_DOM       Label: State
+ZCOUNTRY_DE     Domain: ZCOUNTRY_DOM     Label: Country
+ZINDUSTRY_DE    Domain: ZINDUSTRY_DOM    Label: Industry
+ZCONTACT_DE     Domain: ZCONTACT_DOM     Label: Contact Number
+ZEMAIL_DE       Domain: ZEMAIL_DOM       Label: Email Address
