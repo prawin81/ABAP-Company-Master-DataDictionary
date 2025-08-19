@@ -143,7 +143,7 @@ Below is how company master data looks in the transparent table:
 When executing the report, the **Selection Screen** allows filtering by Company ID, City, or Industry.  
 
 📸 Example screenshot:  
-![Selection Screen](./assets/selection_screen.png)  
+![Selection Screen](Selection_Screen.png)  
 
 ---
 
@@ -153,7 +153,7 @@ On the **Company ID** field, a **Search Help (ZCOMPANY_SH)** is attached.
 When the user presses `F4`, a popup displays a list of companies for easy selection.  
 
 📸 Example screenshot:  
-![Search Help](./assets/search_help.png)  
+![Search Help](Search_Help.png)  
   
 ---
 
