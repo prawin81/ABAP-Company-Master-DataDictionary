@@ -1,0 +1,11 @@
+Table: ZCOMPANY_MASTER
+
+Fields:
+- COMPANY_ID     Key ✔   Data Element: ZCOM_ID_DE
+- COMPANY_NAME          Data Element: ZCOM_NAME_DE
+- CITY                  Data Element: ZCITY_DE
+- STATE                 Data Element: ZSTATE_DE
+- COUNTRY               Data Element: ZCOUNTRY_DE
+- INDUSTRY              Data Element: ZINDUSTRY_DE
+- CONTACT_NO            Data Element: ZCONTACT_DE
+- EMAIL                 Data Element: ZEMAIL_DE
