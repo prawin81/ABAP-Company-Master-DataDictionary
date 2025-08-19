@@ -1,0 +1,3 @@
+Search Help: ZCOMPANY_SH
+- Allows search on: COMPANY_ID, COMPANY_NAME, CITY, STATE, COUNTRY....
+- Attached to Transparent Table ZCOMPANY_MASTER
